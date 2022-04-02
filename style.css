@@ -1,0 +1,38 @@
+body{
+    background-image: url('background22.jpg');
+    margin: 20px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5vh;
+    
+}
+.faqq img {
+    height: 700px;
+    width: auto;
+ border: solid black 10px;
+  
+   margin-right: 40px;
+}
+.picture{
+    align-content: flex-start;
+}
+.carimg{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.carhed{
+    margin-top: 120px;
+    color: bisque;
+}
+.ddmm img{
+    height: 700px;
+    width: auto;
+ border: solid black 10px;
+
+}
+.bg{
+    background-color: black;
+}
+
+
